@@ -37,3 +37,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Ignore the CSV file for this specific assignment
+week2.csv
